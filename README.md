@@ -12,12 +12,13 @@ The model predicts whether a given news article is **Fake** or **Real** based on
 
 
 project/
-│── app.py
-│── model.pkl
-│── vectorizer.pkl
-│── requirements.txt
-│── templates/
-│ └── index.html
+
+- │── app.py
+- │── model.pkl
+- │── vectorizer.pkl
+- │── requirements.txt
+- │── templates/
+- │ └── index.html
 
 
 ---
