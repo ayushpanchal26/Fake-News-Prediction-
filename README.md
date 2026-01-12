@@ -16,7 +16,6 @@ project/
 - │── app.py
 - │── model.pkl
 - │── vectorizer.pkl
-- │── requirements.txt
 - │── templates/
 - │ └── index.html
 
@@ -34,8 +33,3 @@ project/
 
 ---
 
-## ▶️ How to Run
-
-1. Install dependencies:
-```bash
-pip install -r requirements.txta
